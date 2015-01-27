@@ -1,0 +1,12 @@
+{
+	"options": {
+		"sass": "demos/src/demo.scss",
+		"js": "demos/src/demo.js"
+	},
+	"demos": [
+		{
+			"name": "base",
+			"template": "demos/src/base.mustache"
+		}
+	]
+}

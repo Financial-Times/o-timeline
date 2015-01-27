@@ -1,0 +1,14 @@
+////
+/// @group o-timeline
+/// @link http://registry.origami.ft.com/components/o-timeline
+////
+
+/// Silent mode
+///
+/// @type Bool
+$o-timeline-is-silent: true !default;
+
+@import "o-colors/main";
+@import "o-fonts/main";
+
+@import "src/base";

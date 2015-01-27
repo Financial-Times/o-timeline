@@ -1,1 +1,8 @@
-/bower_components/
+.idea/
+.ruby-version
+.sass-cache/
+build/
+bower_components/
+demos/local/
+.editorconfig
+.DS_Store
